@@ -1,0 +1,214 @@
+{
+    "items": {
+        "bana": {
+            "above": false,
+            "below": true,
+            "cost": 5,
+            "description": "-1pt from player below you",
+            "group": "weak",
+            "name": "bana",
+            "target": null,
+            "value": -1
+        },
+        "blueshell": {
+            "above": false,
+            "below": true,
+            "cost": 15,
+            "description": "-10 pts from player in first",
+            "group": "skilled",
+            "name": "blueshell",
+            "target": "top",
+            "value": -10
+        },
+        "bobbomb": {
+            "above": false,
+            "below": true,
+            "cost": 15,
+            "description": "-10pts from player below you",
+            "group": "skilled",
+            "name": "bobbomb",
+            "target": null,
+            "value": -10
+        },
+        "boo": {
+            "above": false,
+            "below": false,
+            "cost": 15,
+            "description": "Steal another players item.",
+            "group": "skilled",
+            "name": ":boo:",
+            "target": "steal",
+            "value": 0
+        },
+        "boomush": {
+            "above": false,
+            "below": false,
+            "cost": 15,
+            "description": "Steal someone else's item and +3pts to self",
+            "group": "skilled",
+            "name": "boomush",
+            "target": "steal",
+            "value": 3
+        },
+        "bowser": {
+            "above": false,
+            "below": false,
+            "cost": 30,
+            "description": "-30pts from random player",
+            "group": "frantic",
+            "name": "bowser",
+            "target": "random",
+            "value": -30
+        },
+        "bshell": {
+            "above": false,
+            "below": false,
+            "cost": 5,
+            "description": "-5pts from random player",
+            "group": "weak",
+            "name": "bshell",
+            "target": "random",
+            "value": -5
+        },
+        "chomp": {
+            "above": false,
+            "below": true,
+            "cost": 5,
+            "description": "-2pts from player below you",
+            "group": "weak",
+            "name": "chomp",
+            "target": null,
+            "value": -2
+        },
+        "gbana": {
+            "above": false,
+            "below": true,
+            "cost": 5,
+            "description": "-2pts from player below you",
+            "group": "weak",
+            "name": "gbana",
+            "target": null,
+            "value": -2
+        },
+        "goldshell": {
+            "above": false,
+            "below": false,
+            "cost": 15,
+            "description": "-10pts from random player",
+            "group": "skilled",
+            "name": "goldshell",
+            "target": "random",
+            "value": -10
+        },
+        "gshell": {
+            "above": false,
+            "below": false,
+            "cost": 5,
+            "description": "-1pts from random player",
+            "group": "weak",
+            "name": "gshell",
+            "target": "random",
+            "value": -1
+        },
+        "ink": {
+            "above": false,
+            "below": false,
+            "cost": 15,
+            "description": "-1pts random player every 3m for 30m",
+            "group": "skilled",
+            "name": "ink",
+            "target": "random",
+            "value": -1
+        },
+        "megamush": {
+            "above": false,
+            "below": false,
+            "cost": 15,
+            "description": "15pts to self",
+            "group": "skilled",
+            "name": "megamush",
+            "target": "self",
+            "value": 20
+        },
+        "minimush": {
+            "above": false,
+            "below": false,
+            "cost": 30,
+            "description": "-20pts from random player",
+            "group": "frantic",
+            "name": "minimush",
+            "target": "random",
+            "value": -20
+        },
+        "puff": {
+            "above": false,
+            "below": false,
+            "cost": 5,
+            "description": "-3pts from random player",
+            "group": "weak",
+            "name": "puff",
+            "target": "random",
+            "value": -3
+        },
+        "rshell": {
+            "above": false,
+            "below": false,
+            "cost": 5,
+            "description": "-3pts from target player",
+            "group": "weak",
+            "name": "rshell",
+            "target": "targeted",
+            "value": -3
+        },
+        "smoke": {
+            "above": true,
+            "below": true,
+            "cost": 5,
+            "description": "-3pts from players above and below",
+            "group": "weak",
+            "name": "smoke",
+            "target": null,
+            "value": -3
+        },
+        "splat": {
+            "above": true,
+            "below": true,
+            "cost": 30,
+            "description": "-10 pts from player below and above",
+            "group": "frantic",
+            "name": "splat",
+            "target": null,
+            "value": -10
+        },
+        "sprinkler": {
+            "above": false,
+            "below": false,
+            "cost": 30,
+            "description": "-3pts random player every 3m for 30m",
+            "group": "frantic",
+            "name": "sprinkler",
+            "target": "random",
+            "value": -3
+        },
+        "tack": {
+            "above": false,
+            "below": true,
+            "cost": 5,
+            "description": "-4pts from player below you",
+            "group": "weak",
+            "name": "tack",
+            "target": null,
+            "value": -4
+        },
+        "tornado": {
+            "above": true,
+            "below": false,
+            "cost": 5,
+            "description": "-5pts from player above you",
+            "group": "weak",
+            "name": "tornado",
+            "target": null,
+            "value": -5
+        }
+    }
+}
